@@ -1,1 +1,1 @@
-# auth-system-in-nextJs
+# authentication-system-in-nextJs
